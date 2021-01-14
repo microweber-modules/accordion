@@ -4,9 +4,9 @@
 
   type: layout
 
-  name: Default
+  name: old
 
-  description: Default template
+  description: Old template
 
 
 */

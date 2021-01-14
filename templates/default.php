@@ -4,9 +4,9 @@
 
   type: layout
 
-  name: new
+  name: default
 
-  description: New template
+  description: Default template
 
 
 */
